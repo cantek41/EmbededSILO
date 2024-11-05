@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F452 -DL -O11111114 -fo4 -N"D:\Devreler\Rs485Master\RS485.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroCPROforPIC\Defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroCPROforPIC\uses\P18\" -SP"D:\Devreler\Rs485Master\" "Master485.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_UART_c67.mcl" "__Lib_RS485.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Master485.c
+warning: 23	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Master485.c
+diagnostics: 75	123	Compiled Successfully	Master485.c
+diagnostics: 0	127	All files Compiled in 31 ms	 
+hint: 0	1144	Used RAM (bytes): 49 (3%)  Free RAM (bytes): 1466 (97%)	Used RAM (bytes): 49 (3%)  Free RAM (bytes): 1466 (97%)
+hint: 0	1144	Used ROM (bytes): 1538 (5%)  Free ROM (bytes): 31230 (95%)	Used ROM (bytes): 1538 (5%)  Free ROM (bytes): 31230 (95%)
+diagnostics: 0	125	Project Linked Successfully	RS485.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'RS485.mcppi' completed: 63 ms	 
+diagnostics: 0	103	Finished successfully: 05 Kas 2024, 10:53:02	RS485.mcppi
